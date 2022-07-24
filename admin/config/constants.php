@@ -1,7 +1,7 @@
 <?php 
-	define('SITEURL', 'http://localhost:8080/phpmultilingualblog/');
+	define('SITEURL', 'https://wetlet/phpblog/');
 	define('LOCALHOST', 'localhost');
-	define('USERNAME', 'root');
-	define('PASSWORD', '');
-	define('DBNAME', 'mlb2018');
+	define('USERNAME', 'u271036748_phpblog');
+	define('PASSWORD', 'Vishal@5676');
+	define('DBNAME', 'u271036748_phpblog');
 ?>
