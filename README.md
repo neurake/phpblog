@@ -2,20 +2,6 @@
 This is a simple blog website which supports multi-languages (english, nepali and chinese). This is just for educational purpose (not for commercial use).
 This is an Open Source Project, So feel free to explore (use) in any ways you like.
 
-## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
-
-
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
-
-
 ## Technologies Used
 1. HTML5
 2. CSS3
@@ -33,14 +19,6 @@ This is an Open Source Project, So feel free to explore (use) in any ways you li
 1. English
 2. Nepali
 3. Chinese
-
-*(You can Add More...)*
-
-## Website at a Glance
-
-#### [Click Here to watch Demo Video](https://www.youtube.com/watch?v=RU6jsPXj1ys)
-
-![Login Page in Multiple Languages](https://2.bp.blogspot.com/-CA4FX5Hwi3U/WxPmCuOdTxI/AAAAAAAAC_8/qT262sNVDLoGwLVw52uwao_uBVWKLp1-QCLcBGAs/s640/login.jpg)
 
 ## Instructions to Use
 
@@ -66,8 +44,8 @@ Local Disc C: -> xampp -> htdocs -> 'this project'
 4. Extract and Import Database
 
 a. Open 'phpmyadmin' in your browser
-b. Create a Database ('mlb2018')
-c. Import the SQL file provided with this project ('mlb2018')
+b. Create a Database ('phpblog')
+c. Import the SQL file provided with this project ('phpblog')
 
 5. Make Changes to settings
 
@@ -81,9 +59,9 @@ session_start();
 define('LOCALHOST', 'localhost');
 define('USERNAME', 'root'); //Your Database username instead of 'root'
 define('PASSWORD', ''); //Your Database Password instead of null/empty
-define('DBNAME', 'mlb2018'); //Your Database Name if it's not 'mlb2018'
+define('DBNAME', 'phpblog'); //Your Database Name if it's not 'mlb2018'
 
-define('SITEURL', 'http://localhost/phpmultilingualblog/'); //Update the home URL of the project if you have changed port number or it's live on server
+define('SITEURL', 'http://localhost/phpblog/'); //Update the home URL of the project if you have changed port number or it's live on server
 
 ?>
 ```
@@ -96,16 +74,32 @@ This is a very simple Content Management System (No advanced stuffs).
 
 **Instructions to use**
 1. Go to the link -> yourhomeurl/admin  
->e.g. *http://localhost:81/phpmultilingualblog/admin*
+>e.g. *http://localhost:81/phpblog/admin*
 2. Login with the Username and Password 
 >*[Username: admin, Password: admin]*
 3. Hola! You're logged in. Now you can manage categories, posts and users.
 
 ## For Sponsor or Projects Enquiry
-1. Email - hi@vijaythapa.com
+1. Email - neurake7@gmail.com
 
 ## Follow Me on
-1. LinkedIn - [vijaythapa](https://www.linkedin.com/in/vijaythapa/ "Vijay Thapa on LinkedIn")
-2. Instagram - [@vijaythapa.code](https://www.instagram/vijaythapa.code/ "Vijay Thapa on Instagram")
-3. Facebook - [@thevijaythapa](https://www.facebook.com/thevijaythapa/ "Vijay Thapa on Facebook")
-5. Twitter - [@thevijaythapa](https://www.twitter.com/thevijaythapa "Vijay Thapa on Twitter")
+1. LinkedIn - [vijaythapa](https://www.linkedin.com/in/neurake/ "Vishal Thombre on LinkedIn")
+2. Instagram - [@vijaythapa.code](https://www.instagram/neurake7/ "Vishal Thombre on Instagram")
+5. Twitter - [@thevijaythapa](https://www.twitter.com/neurake7 "Vishal Thombre on Twitter")
+
+
+
+
+## Support Developer
+1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
+2. Add a Star 🌟  to this 👆 Repository
+
+
+## Donate
+
+**[PayPal](https://bit.ly/support-vijay-thapa)**
+
+**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
+
+**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
+
