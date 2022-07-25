@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Admin Channel - <?php echo $lang['meta_title'] ?></title>
+	<title>Admin Panel- <?php echo $lang['meta_title'] ?></title>
 
 	<meta charset="utf-8">
 	<meta title="description" content="<?php echo $lang['meta_description'] ?>">
